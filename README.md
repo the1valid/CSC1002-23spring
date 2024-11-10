@@ -10,4 +10,4 @@
  
  ### Assignment 3: 40%     
  
- my grades: 10/10 for UI, 8/10 for logic, and 8.75/10 for coding style  (the time complexity is to high)
+ my grades: 10/10 for UI, 8/10 for logic, and 8.75/10 for coding style  (the time complexity is too high)
